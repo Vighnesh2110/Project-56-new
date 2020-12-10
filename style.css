@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	font-family: monospace;
+	background-color: wheat;
+	font-size: 30PX;
+}
+
+.image-section {
+	display: flex;
+	justify-content: center;
+}
+
+div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.section-style {
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color: white;
+}
+
+p {
+	font-size: 15px;
+	text-align: center;
+	font-family: cursive;
+}
+h2{
+	font-size: 5px;
+	font-family: monospace;
+}
